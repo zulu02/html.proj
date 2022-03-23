@@ -1,0 +1,7 @@
+navbar {
+    position: fixed;
+    overflow-x: hidden;
+}
+#navbar ul{
+    display: block;
+}
